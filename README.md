@@ -1,4 +1,4 @@
-<h1 align="center">🍄 Template Web - Mario & Luigi Encanadores</h1>
+<h1 align="center">🍄 Projeto Web - Mario & Luigi Encanadores</h1>
 
 <p align="center">
   Um projeto de template front-end focado em serviços hidráulicos, inspirado nos encanadores mais famosos do Reino dos Cogumelos!
