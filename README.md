@@ -28,4 +28,4 @@ Este é um template simples e bem-humorado, ideal para treinar conceitos de estr
    git clone [https://github.com/SEU-USUARIO/nome-do-repositorio.git](https://github.com/SEU-USUARIO/nome-do-repositorio.git)
 
 ## PREVIW
-<img>
+<img src="./assets/Captura de tela 2026-04-22 171114.png">
